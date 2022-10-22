@@ -1,0 +1,12 @@
+
+*.json
+*.dll
+*.xml
+*._
+*.props
+*.cache
+*.TXT
+*.p7s
+*.nupkg
+*.targets
+*.png
